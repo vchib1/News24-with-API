@@ -1,5 +1,5 @@
 News App made with Flutter, used NewsAPI to show News. Also integerated WebView to Open Aricles URL to read news in Broswer.
-Instead of Showing boring Cicular Progress Indicator, Shimmer effect is used to show loading screen.
+Instead of Showing boring Circular Progress Indicator, Shimmer effect is used to show the loading screen.
 
 Screenshots:
 
